@@ -51,7 +51,7 @@ To install the development version, do the following:
 
 .. code:: sh
 
-    $ git clone https://github.com/Rapptz/discord.py
+    $ git clone https://github.com/LucyCoderr/discord.py
     $ cd discord.py
     $ python3 -m pip install -U .[voice]
 
